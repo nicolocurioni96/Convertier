@@ -15,6 +15,7 @@
 		A19609BE2C109C1D00737DB8 /* ConvertierTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19609BD2C109C1D00737DB8 /* ConvertierTests.swift */; };
 		A19609C82C109C1D00737DB8 /* ConvertierUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19609C72C109C1D00737DB8 /* ConvertierUITests.swift */; };
 		A19609CA2C109C1D00737DB8 /* ConvertierUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19609C92C109C1D00737DB8 /* ConvertierUITestsLaunchTests.swift */; };
+		A19609D92C109C4600737DB8 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19609D82C109C4600737DB8 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A19609C32C109C1D00737DB8 /* ConvertierUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ConvertierUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A19609C72C109C1D00737DB8 /* ConvertierUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertierUITests.swift; sourceTree = "<group>"; };
 		A19609C92C109C1D00737DB8 /* ConvertierUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertierUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A19609D82C109C4600737DB8 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				A19609A92C109C1B00737DB8 /* ConvertierApp.swift */,
+				A19609D82C109C4600737DB8 /* HomeView.swift */,
 				A19609AB2C109C1B00737DB8 /* ContentView.swift */,
 				A19609AD2C109C1B00737DB8 /* Item.swift */,
 				A19609AF2C109C1D00737DB8 /* Assets.xcassets */,
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A19609AC2C109C1B00737DB8 /* ContentView.swift in Sources */,
+				A19609D92C109C4600737DB8 /* HomeView.swift in Sources */,
 				A19609AE2C109C1B00737DB8 /* Item.swift in Sources */,
 				A19609AA2C109C1B00737DB8 /* ConvertierApp.swift in Sources */,
 			);
